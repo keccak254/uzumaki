@@ -1,9 +1,10 @@
 # Uzumaki
-<img width="1108" alt="Screenshot 2024-11-28 at 0 45 43" src="https://github.com/user-attachments/assets/e7bf6ced-8caf-42f3-9b07-6dc900599972">
+<img width="1200" alt="Screenshot 2024-11-28 at 15 35 21" src="https://github.com/user-attachments/assets/321f603f-6f77-4bb5-851b-9dd5bb7d59e9">
+
 
 
 ## Overview 📝
-UzumakiはEthereumの最重要問題を解決するための日本初の研究者のための共同住宅です。暗号学や経済学の分野の研究者、エンジニアが共同生活を行いながら、問題解決に取り組んでいきます。
+UzumakiはEthereumの最重要問題を解決するための日本初の研究者用共同住宅です。暗号学や経済学の分野の研究者、エンジニアが共同生活を行いながら、問題解決に取り組んでいきます。
 
 主な活動は以下の通りです。
 
