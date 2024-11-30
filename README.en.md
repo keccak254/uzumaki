@@ -77,6 +77,10 @@ A short-term research house where researchers and developers related to Ethereum
 #### 2. [Progcrypto Camp](https://lu.ma/1rg8psb1)
 A four-day camp for those working on cryptographic technologies related to Ethereum (ZKP, MPC, FHE, iO, TEEs, etc.). It offered workshops for beginners, diverse sessions from university professors, PhDs, research institutes, and businesses in various fields, as well as spaces for individual research. Participants tackled significant unresolved issues worldwide such as zkVM, post-quantum cryptography, iO, Verifiable FHE, secret computation, etc.
 
+Example session: Introduction to Indistinguishability/Ideal Obfuscation - Sora Suegami, Co-Founder of ZK Email
+- [slide link](https://drive.google.com/file/d/1Id5Ho7vp_YQFmcdjo8shpoM3hB_GJP1i/view?usp=sharing)
+- [video link (do not share on public)](https://youtu.be/CiyB8N47hz0?si=YpzchzvX8xjG3mLL)
+
 You can see event reports and session topics [here](https://medium.com/@nittosha0705/exploring-the-future-of-cryptography-highlights-from-progcrypto-camp-5c39b29505ee)
 
 ![image2-1](https://github.com/user-attachments/assets/121126a1-56ac-4f17-80cf-6fd8b39f9ee8)
