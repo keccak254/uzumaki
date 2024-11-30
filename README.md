@@ -90,6 +90,10 @@ Uzumakiでは、このコンセプトを引き継ぎ、毎月、先端研究に�
 #### 2. [Progcrypto Camp](https://lu.ma/1rg8psb1)  
 ZKP、MPC、FHE、iO、TEEなど、イーサリアムに関連する暗号技術に取り組む人々のための4日間のキャンプ。初心者向けワークショップ、大学教授や研究機関、企業による多様なセッション、個人研究の場を提供しました。参加者はzkVM、ポスト量子暗号、iO、Verifiable FHE、秘密計算など、世界的な課題に取り組みました。
 
+セッション例: Introduction to Indistinguishability/Ideal Obfuscation - Sora Suegami, Co-Founder of ZK Email
+- [スライドURL](https://drive.google.com/file/d/1Id5Ho7vp_YQFmcdjo8shpoM3hB_GJP1i/view?usp=sharing)
+- [セッション録画](https://youtu.be/CiyB8N47hz0?si=YpzchzvX8xjG3mLL)
+
 ![image2-1](https://github.com/user-attachments/assets/121126a1-56ac-4f17-80cf-6fd8b39f9ee8)
 ![image2-2](https://github.com/user-attachments/assets/6f11d771-00ba-4fc1-91a8-1d7d1acccf89)
 ![image2-3](https://github.com/user-attachments/assets/62b6d2bc-7907-4015-b446-07e12ee2042b)
