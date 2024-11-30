@@ -65,7 +65,7 @@ If you are interested in supporting our initiative as a sponsor, please contact 
 
 We have previously organized related share houses/events. Here are two selected events:
 
-#### 1. [MEV Tokyo](https://x.com/keccak255/status/1823593944837709938)
+### 1. [MEV Tokyo](https://x.com/keccak255/status/1823593944837709938)
 A short-term research house where researchers and developers related to Ethereum's economic domain gathered from around the world under one roof. During this period, three events were held [[1](https://lu.ma/ei1byzjh), [2](https://lu.ma/9ha1tvgh), [3](https://lu.ma/wfpghc0t)], sharing insights on the latest incentive issues with researchers from various fields.
 
 <img width="1200" alt="image1-1" src="https://github.com/user-attachments/assets/c3758812-8fbc-47bc-8fce-de678fb49c80">
@@ -74,7 +74,7 @@ A short-term research house where researchers and developers related to Ethereum
 
 <img width="1200" alt="image1-3" src="https://github.com/user-attachments/assets/60ba118b-13ac-4b55-9de3-6db7d9611f1e">
 
-#### 2. [Progcrypto Camp](https://lu.ma/1rg8psb1)
+### 2. [Progcrypto Camp](https://lu.ma/1rg8psb1)
 A four-day camp for those working on cryptographic technologies related to Ethereum (ZKP, MPC, FHE, iO, TEEs, etc.). It offered workshops for beginners, diverse sessions from university professors, PhDs, research institutes, and businesses in various fields, as well as spaces for individual research. Participants tackled significant unresolved issues worldwide such as zkVM, post-quantum cryptography, iO, Verifiable FHE, secret computation, etc.
 
 Example session: Introduction to Indistinguishability/Ideal Obfuscation - Sora Suegami, Co-Founder of ZK Email

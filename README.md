@@ -72,11 +72,11 @@ Uzumakiでは、このコンセプトを引き継ぎ、毎月、先端研究に�
 
 ---
 
-### 過去の活動 📜
+## 過去の活動 📜
 
 これまでに関連するシェアハウスやイベントを開催しました。以下はその一部です。
 
-#### 1. [MEV Tokyo](https://x.com/keccak255/status/1823593944837709938)  
+### 1. [MEV Tokyo](https://x.com/keccak255/status/1823593944837709938)  
 イーサリアムの経済分野に関連する研究者や開発者が一つ屋根の下に集まった短期リサーチハウス。期間中に3つのイベント（[[1](https://lu.ma/ei1byzjh), [2](https://lu.ma/9ha1tvgh), [3](https://lu.ma/wfpghc0t)）を開催し、さまざまな分野の研究者と最新のインセンティブ課題について意見を交わしました。
 
 
@@ -87,7 +87,7 @@ Uzumakiでは、このコンセプトを引き継ぎ、毎月、先端研究に�
 <img width="1200" alt="image1-3" src="https://github.com/user-attachments/assets/60ba118b-13ac-4b55-9de3-6db7d9611f1e">
 
 
-#### 2. [Progcrypto Camp](https://lu.ma/1rg8psb1)  
+### 2. [Progcrypto Camp](https://lu.ma/1rg8psb1)  
 ZKP、MPC、FHE、iO、TEEなど、イーサリアムに関連する暗号技術に取り組む人々のための4日間のキャンプ。初心者向けワークショップ、大学教授や研究機関、企業による多様なセッション、個人研究の場を提供しました。参加者はzkVM、ポスト量子暗号、iO、Verifiable FHE、秘密計算など、世界的な課題に取り組みました。
 
 セッション例: Introduction to Indistinguishability/Ideal Obfuscation - Sora Suegami, Co-Founder of ZK Email
