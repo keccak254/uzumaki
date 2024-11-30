@@ -21,14 +21,40 @@ Additionally, we recognize the lack of knowledge sharing and collaborative resea
 - Our share house is dedicated to research. It is not intended for fundraising or launching specific projects but rather for discussing and researching particular topics.
 
 ## Sponsorship 🤝
-We offer sponsorship opportunities for companies that resonate with our activities, priced at 1 million yen per unit (for one year).
+We offer sponsorship opportunities for companies that resonate with our activities, priced at 1M JPY / 10k USD per unit (for one year).
 
-Sponsorship benefits include:
-- Unlimited visits/accommodations
-- Co-hosting events
-- Securing a slot for lightning talks
-- Logo placement on pages (event participation pages, official house page, etc.)
-- Placement of swag or materials within the house
+#### Sponsorship Benefits: Unlock Exclusive Access to Japan's Ethereum R&D Community  
+
+Japan has been home to global Ethereum events like [ETHGlobal Tokyo](https://ethglobal.medium.com/ethglobal-tokyo-2023-e0077fb07302) and [ETHTokyo](https://app.akindo.io/hackathons/3dXM7ZO2WsxvlkXp), attracting around 500 Japanese participants each. These events have showcased the growing interest and talent in blockchain and Ethereum technologies within Japan.
+
+In addition, we have hosted **MEV Tokyo** and **Progcrypto Camp** (see in Past Activities section), both gathering over 100 participants. Unlike larger-scale conferences, our events are uniquely intimate, focusing on in-depth discussions around cutting-edge topics like:
+
+- **Economic paradigms** such as MEV, Intents, and Consensus mechanisms  
+- **Cryptographic innovations** including ZKP, MPC, FHE, and TEEs
+
+These events have been endorsed by the Ethereum Foundation and supported through ecosystem grants, a testament to their impact and relevance. By organizing these gatherings in collaborative spaces instead of conventional conference halls, we foster deep, two-way engagement between participants.
+
+#### Monthly Events at Uzumaki  
+At Uzumaki, we carry forward this ethos by hosting monthly events focused on advanced research, open discussions, and knowledge sharing. Each event will:  
+
+- Attract **100+ participants**, including researchers, engineers, and professionals deeply involved in Ethereum and related technologies.  
+- Feature **5-10 curated talks** with balanced time for presentations and Q&A.  
+- Address cutting-edge topics while encouraging collaborative problem-solving.  
+
+These events not only create networking opportunities but also provide a platform for sponsors to share their projects, highlight industry challenges, and actively contribute to solutions.
+
+#### Why Sponsor?  
+Sponsorship offers unparalleled access to Japan's Ethereum ecosystem and beyond, with the following key benefits:  
+
+- **Unlimited visits and accommodations** at the research house, facilitating ongoing collaboration.  
+- **Co-hosting opportunities** for events to showcase your thought leadership.  
+- **Guaranteed presentation slots** for lightning talks to present your work or initiatives.  
+- **Prominent branding** through logo placement on event pages, official Uzumaki materials, and more.  
+- **Direct engagement** by placing swag, promotional materials, or educational content in the house.  
+
+By becoming a sponsor, you’ll position your brand as a leading supporter of Ethereum innovation, while directly engaging with some of the brightest minds shaping the future of the ecosystem.
+
+---
 
 If you are interested in supporting our initiative as a sponsor, please contact us through one of the following:
 - Email: keccak255@gmail.com
@@ -39,10 +65,8 @@ If you are interested in supporting our initiative as a sponsor, please contact 
 
 We have previously organized related share houses/events. Here are two selected events:
 
-- [MEV Tokyo](https://x.com/keccak255/status/1823593944837709938): A short-term research house where researchers and developers related to Ethereum's economic domain gathered from around the world under one roof. During this period, three events were held [[1](https://lu.ma/ei1byzjh), [2](https://lu.ma/9ha1tvgh), [3](https://lu.ma/wfpghc0t)], sharing insights on the latest incentive issues with researchers from various fields.
-- [Progcrypto Camp](https://lu.ma/1rg8psb1): A four-day camp for those working on cryptographic technologies related to Ethereum (ZKP, MPC, FHE, iO, TEEs, etc.). It offered workshops for beginners, diverse sessions from university professors, PhDs, research institutes, and businesses in various fields, as well as spaces for individual research. Participants tackled significant unresolved issues worldwide such as zkVM, post-quantum cryptography, iO, Verifiable FHE, secret computation, etc.
-
-### MEV Tokyo's picture
+#### 1. [MEV Tokyo](https://x.com/keccak255/status/1823593944837709938)
+A short-term research house where researchers and developers related to Ethereum's economic domain gathered from around the world under one roof. During this period, three events were held [[1](https://lu.ma/ei1byzjh), [2](https://lu.ma/9ha1tvgh), [3](https://lu.ma/wfpghc0t)], sharing insights on the latest incentive issues with researchers from various fields.
 
 <img width="1200" alt="image1-1" src="https://github.com/user-attachments/assets/c3758812-8fbc-47bc-8fce-de678fb49c80">
 
@@ -50,7 +74,10 @@ We have previously organized related share houses/events. Here are two selected 
 
 <img width="1200" alt="image1-3" src="https://github.com/user-attachments/assets/60ba118b-13ac-4b55-9de3-6db7d9611f1e">
 
-### Progcrypto Camp's picture
+#### 2. [Progcrypto Camp](https://lu.ma/1rg8psb1)
+A four-day camp for those working on cryptographic technologies related to Ethereum (ZKP, MPC, FHE, iO, TEEs, etc.). It offered workshops for beginners, diverse sessions from university professors, PhDs, research institutes, and businesses in various fields, as well as spaces for individual research. Participants tackled significant unresolved issues worldwide such as zkVM, post-quantum cryptography, iO, Verifiable FHE, secret computation, etc.
+
+You can see event reports and session topics [here](https://medium.com/@nittosha0705/exploring-the-future-of-cryptography-highlights-from-progcrypto-camp-5c39b29505ee)
 
 ![image2-1](https://github.com/user-attachments/assets/121126a1-56ac-4f17-80cf-6fd8b39f9ee8)
 ![image2-2](https://github.com/user-attachments/assets/6f11d771-00ba-4fc1-91a8-1d7d1acccf89)
